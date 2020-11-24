@@ -6,6 +6,17 @@
   <li>I’m currently tutoring 🎓, learning 🌱, & working on 🔭 <strong>Python 🐍 & React ⚛️ projects</strong></li>
   <li> How to reach me 📫 for advice 🤔, suggestions 💬, or collaboration 👯: <a href='https://instagram.com/aoctut'>instagram.com/aoctut</a></li>
 </ul>
+<h3 align="center">Back-End Languages, Libraries, & Databases</h3>
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="40"/>
+  <img src="https://vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="python" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="react" height="40"/>
+  <img src="https://vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" height="40"/>
+  <!--img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="40"/-->
+</p>
 <h3 align="center">Front-End Languages & Libraries</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="40"/>
@@ -13,16 +24,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" height="40"/>
-</p>
-<h3 align="center">Back-End Languages, Libraries, & Databases</h3>
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="react" height="40"/>
-  <img src="https://vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" height="40"/>
-  <!--img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="40"/-->
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
