@@ -3,8 +3,9 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=lxndroc" alt="views" />
 </p>
 <ul>
-  <li>I’m currently tutoring 🎓, learning 🌱, & working on 🔭 <strong>Python 🐍 & React ⚛️ projects</strong></li>
-  <li> How to reach me 📫 for advice 🤔, suggestions 💬, or collaboration 👯: <a href='https://instagram.com/aoctut'>instagram.com/aoctut</a></li>
+  <li>Tutoring 🎓, learning 🌱, & working on 🔭 <strong>Python 🐍 & React ⚛️ projects</strong></li>
+  <li>Helping UK IT Undergraduates Land Their Dream Degree</li>
+  <li>Reach me 📫 for advice 🤔, suggestions 💬, or collaboration 👯: <a href='https://instagram.com/aoctut'>instagram.com/aoctut</a></li>
 </ul>
 <h3 align="center">Back-End Languages, Libraries, & Databases</h3>
 <p align="center">
