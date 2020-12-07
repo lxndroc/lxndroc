@@ -49,6 +49,9 @@
   <a href="https://twitter.com/aoctut" target="blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="aoctut" height="25" />
   </a>
+  <a href="https://www.youtube.com/channel/UCHGbKrIHLddvvRzXCg6vApA?view_as=subscriber" target="blank">
+    <img src="https://vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="aoctut" height="25" />
+  </a>
 </p>
 
 <!--
