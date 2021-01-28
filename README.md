@@ -40,6 +40,9 @@
 </p>
 <h3 align="center">Social Media</h3>
 <p align="center">
+  <a href="https://discord.gg/8NWMugHkzm" target="blank">
+    <img src="https://vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="alexandroc" height="30" />
+  </a>
   <a href="https://linkedin.com/in/alexandroc" target="blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="alexandroc" height="30" />
   </a>
@@ -49,8 +52,11 @@
   <a href="https://twitter.com/aoctut" target="blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="aoctut" height="25" />
   </a>
-  <a href="https://www.youtube.com/channel/UCHGbKrIHLddvvRzXCg6vApA?view_as=subscriber" target="blank">
+  <a href="https://youtube.com/channel/UCHGbKrIHLddvvRzXCg6vApA" target="blank">
     <img src="https://vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="aoctut" height="25" />
+  </a>
+  <a href="https://reddit.com/user/aoctut" target="blank">
+    <img src="https://vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="aoctut" height="25" />
   </a>
 </p>
 
