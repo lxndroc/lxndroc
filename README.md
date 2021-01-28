@@ -50,13 +50,16 @@
     <img src="https://vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="aoctut" height="30" />
   </a>
   <a href="https://twitter.com/aoctut" target="blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="aoctut" height="25" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="aoctut" height="30" />
   </a>
   <a href="https://youtube.com/channel/UCHGbKrIHLddvvRzXCg6vApA" target="blank">
-    <img src="https://vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="aoctut" height="25" />
+    <img src="https://vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="aoctut" height="30" />
   </a>
   <a href="https://reddit.com/user/aoctut" target="blank">
-    <img src="https://vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="aoctut" height="25" />
+    <img src="https://vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="aoctut" height="30" />
+  </a>
+  <a href="https://quora.com/profile/Alexandros-Xafopoulos" target="blank">
+    <img src="https://vectorlogo.zone/logos/quora/quora-icon.svg" alt="aoctut" height="30" />
   </a>
 </p>
 
