@@ -41,7 +41,7 @@
 <h3 align="center">Social Media</h3>
 <p align="center">
   <a href="https://discord.gg/8NWMugHkzm" target="blank">
-    <img src="https://vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="alexandroc" height="30" />
+    <img src="https://vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="BYDPP" height="30" />
   </a>
   <a href="https://linkedin.com/in/alexandroc" target="blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="alexandroc" height="30" />
@@ -53,16 +53,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="aoctut" height="30" />
   </a>
   <a href="https://youtube.com/channel/UCHGbKrIHLddvvRzXCg6vApA" target="blank">
-    <img src="https://vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="aoctut" height="30" />
+    <img src="https://vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="AT" height="30" />
   </a>
   <a href="https://reddit.com/user/aoctut" target="blank">
     <img src="https://vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="aoctut" height="30" />
   </a>
   <a href="https://quora.com/profile/Alexandros-Xafopoulos" target="blank">
-    <img src="https://vectorlogo.zone/logos/quora/quora-icon.svg" alt="aoctut" height="30" />
+    <img src="https://vectorlogo.zone/logos/quora/quora-icon.svg" alt="AX" height="30" />
   </a>
-  <a href="https://quora.com/profile/Alexandros-Xafopoulos" target="blank">
-    <img src="https://vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="aoctut" height="30" />
+  <a href="https://stackoverflow.com/users/7456867/alexandros-xafopoulos" target="blank">
+    <img src="https://vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="AX" height="30" />
   </a>
 </p>
 
