@@ -61,6 +61,9 @@
   <a href="https://quora.com/profile/Alexandros-Xafopoulos" target="blank">
     <img src="https://vectorlogo.zone/logos/quora/quora-icon.svg" alt="aoctut" height="30" />
   </a>
+  <a href="https://quora.com/profile/Alexandros-Xafopoulos" target="blank">
+    <img src="https://vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="aoctut" height="30" />
+  </a>
 </p>
 
 <!--
