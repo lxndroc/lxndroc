@@ -5,7 +5,8 @@
 <ul>
   <li>Tutoring 🎓, learning 🌱, & working on 🔭 <strong>Python 🐍 & React ⚛️ projects</strong></li>
   <li>Helping UK IT Undergraduates Land Their Dream Degree</li>
-  <li>Reach me 📫 for advice 🤔, suggestions 💬, or collaboration 👯: <a href='https://instagram.com/aoctut'>instagram.com/aoctut</a></li>
+  <li>Leading a Python-support Discord Team with 500+ joins</li>
+  <li><a href='https://dsc.gg/python_team'>Reach</a> me 📫 on our Python-support Discord Team for advice 🤔, suggestions 💬, or collaboration 👯</li>
 </ul>
 <h3 align="center">Back-End Languages, Libraries, & Databases</h3>
 <p align="center">
@@ -30,6 +31,7 @@
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="git" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" height="40"/>
 </p>
