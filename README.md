@@ -3,18 +3,20 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=lxndroc" alt="views" />
 </p>
 <ul>
-  <li>Tutoring 🎓, learning 🌱, & working on 🔭 <strong>Python 🐍 & React ⚛️ projects</strong></li>
+  <li>Tutoring 🎓, learning 🌱, & working on 🔭 <strong>Python 🐍 projects</strong></li>
   <li>Helping UK IT Undergraduates Land Their Dream Degree</li>
-  <li>Leading a Python-support Discord Team with 500+ joins</li>
-  <li><a href='https://dsc.gg/python_team'>Reach</a> me 📫 on our Python-support Discord Team for advice 🤔, suggestions 💬, or collaboration 👯</li>
+  <li>Leading a Python-support Discord Team with 5K+ joins</li>
+  <li><a href='https://discord.gg/8NWMugHkzm'>Reach</a> me 📫 on our Python-support Discord Team for advice 🤔, suggestions 💬, or collaboration 👯</li>
 </ul>
 <h3 align="center">Back-End Languages, Libraries, & Databases</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="python" height="40"/>
   <img src="https://vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="python" height="40"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="react" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="nodejs" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40"/>
+  <!--img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" height="40"/-->
   <img src="https://vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" height="40"/>
   <!--img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="40"/-->
@@ -22,7 +24,7 @@
 <h3 align="center">Front-End Languages & Libraries</h3>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" height="40"/>
+  <!--img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" height="40"/-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" height="40"/>
@@ -31,7 +33,7 @@
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="git" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" height="40"/>
 </p>
